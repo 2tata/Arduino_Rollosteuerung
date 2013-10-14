@@ -8,7 +8,9 @@ Die Rollosteuerung soll auf 2 Rollos Optimirt werden.
 Todo List
 =========
 
-*PCB Platiene Dieseinen
+*PCB Platiene Designen
+
+*CAD darstellung erstellen
 
 *Serielle ansteuernug 
 
